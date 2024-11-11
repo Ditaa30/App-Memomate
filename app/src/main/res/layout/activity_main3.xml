@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgsh"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+    <ImageView
+        android:id="@+id/btnBack"
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:padding="17dp"
+        android:src="@drawable/back" />
+
+    <ImageView
+        android:layout_width="56dp"
+        android:layout_height="94dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="0dp"
+        android:src="@drawable/logomm" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="15dp"
+        android:textSize="15dp"
+        android:text="- List Item" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="- List Item"
+        android:textSize="15dp" />
+
+</LinearLayout>

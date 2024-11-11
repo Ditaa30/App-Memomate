@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg5"
+    tools:context=".MainActivity5">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- Tombol Back -->
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_width="56dp"
+            android:layout_height="50dp"
+            android:padding="17dp"
+            android:src="@drawable/back" />
+    </LinearLayout>
+
+    <!-- Tombol Tambah (Tanda Plus) di Sudut Bawah Kanan -->
+    <ImageButton
+        android:id="@+id/btnTambah"
+        android:layout_width="81dp"
+        android:layout_height="75dp"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="20dp"
+        android:background="?android:attr/selectableItemBackgroundBorderless"
+        android:contentDescription="Tambah"
+        android:padding="10dp"
+        android:src="@android:drawable/ic_input_add" />
+
+</FrameLayout>
